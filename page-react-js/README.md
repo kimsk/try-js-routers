@@ -1,4 +1,7 @@
 [page](https://github.com/visionmedia/page.js)
+
+### Set up 
+
 `npm init -f`
 
 `npm install babel-loader babel-core babel-preset-es2015 babel-preset-react babel-preset-stage-0 webpack --save-dev`
